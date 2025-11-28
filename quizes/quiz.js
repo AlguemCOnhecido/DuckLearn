@@ -15,7 +15,7 @@ const questions = [
   },
   {
     question: "Quanto é 2 + 2?",
-    options: ["3", "4", "5", "22"],
+    options: ["3", "4", "5", "2"],
     answer: 1
   },
   {
